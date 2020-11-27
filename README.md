@@ -3,6 +3,7 @@
 > A dark theme for [Thunderbird](https://addons.thunderbird.net/en-US/thunderbird/addon/dracula-theme-for-thunderbird/)
 
 ![Screenshot](./screenshot.png)
+![Screenshot Calendar](./screenshot_calendar.png)
 
 ## Install
 
