@@ -16,4 +16,4 @@ Install the theme directly from [Thunderbird Themes](https://addons.thunderbird.
 2. Go to Edit > Preferences > General > Language & Appearance > Fonts & Colors > Colors…
 3. Adjust the colors to your liking.
 
-![Dialog](./text_colors.png)
+![Dialog](./screenshot_text_colors.png)
