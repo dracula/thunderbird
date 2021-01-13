@@ -10,4 +10,10 @@ Install the theme directly from [Thunderbird Themes](https://addons.thunderbird.
 2. Open Thunderbird and go to Tools > Add-ons > Settings (cog wheel) > Install Add-on From File...
 3. Select the .zip file that you just downloaded
 4. Allow the installation, when Thunderbird asks you.
- 
+
+#### Optional: Tweak the text, background and link colors
+1. Open Thunderbird.
+2. Go to Edit > Preferences > General > Language & Appearance > Fonts & Colors > Colors…
+3. Adjust the colors to your liking.
+
+![Dialog](./text_colors.png)
